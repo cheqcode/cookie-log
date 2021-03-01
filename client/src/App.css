@@ -1,0 +1,12 @@
+.app{
+    margin: 30px 20vh;
+}
+.registration, .login{
+    display: flex;
+    flex-direction: column;
+}
+input, button{
+    font-size: 13px;
+    padding: 3px;
+    margin:5px 0;
+}
